@@ -1,6 +1,12 @@
 .root{
-	--palette-core-primary: #fe5000; // on hover boarders colors}
+	--palette-core-primary: #fe5000; // on hover boarders colors
+	--questions-spacing: 15px;
+	--typography-fontFamily: 'open sans';
+}
 
+.wtxt1{
+
+}
 // single choice question	
 .q1p1{
 --palette-group-mark-background: #fe5000;
@@ -25,7 +31,10 @@
  --palette-rating-number-selected: #fe5000;
  
 }
-
-.surveyBtn.surveyBtn_submit { /*definition goes in here*/ }
-.surveyBtn.surveyBtn_close { /*definition goes in here*/ }
+.q1p4{
+--palette-core-outline: transparent;
+--palette-action-hover: transparent;
+--palette-rating-number-hover:#fe5000 ;
+--palette-rating-number-selected: #fe5000;
+}
 
