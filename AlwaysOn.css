@@ -1,0 +1,28 @@
+.root{
+	--palette-core-primary: #fe5000; // on hover boarders colors
+
+// single choice question	
+--palette-group-mark-background: #fe5000;
+--palette-rating-custom-hover: #fe5000;
+    --palette-rating-custom-selected: #fe5000;
+    --palette-rating-custom-outline: #fe5000;
+    --palette-rating-custom-selected-outline: #fe5000;
+
+//stars
+    --palette-rating-custom-hover: #fe5000;
+    --palette-rating-custom-selected: #fe5000;
+    --palette-rating-custom-outline: #fe5000;
+    --palette-rating-custom-selected-outline: #fe5000;
+ // NPS 
+ --palette-core-outline: #fe5000;
+ --palette-action-hover: no color; // boarder on hover for set of values should always be transparent 
+ --palette-action-active: var(--palette-core-primary);
+ --palette-group-mark-background: #fe5000;
+ --palette-rating-number-hover: #fe5000; // number inside
+ --palette-rating-number-selected: #fe5000;
+ 
+}
+
+.surveyBtn.surveyBtn_submit { /*definition goes in here*/ }
+.surveyBtn.surveyBtn_close { /*definition goes in here*/ }
+
