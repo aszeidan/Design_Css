@@ -7,7 +7,7 @@
 .wtxt1{
 --typography-bodyLarge-size: 24px;
 }
-// single choice question	
+	
 .q1p1{
 --palette-group-mark-background: #fe5000;
 --palette-rating-custom-hover: #fe5000;
@@ -15,13 +15,13 @@
     --palette-rating-custom-outline: #fe5000;
     --palette-rating-custom-selected-outline: #fe5000;}
 
-//stars
+
 .q1p2{
     --palette-rating-custom-hover: #fe5000;
     --palette-rating-custom-selected: #fe5000;
     --palette-rating-custom-outline: #fe5000;
     --palette-rating-custom-selected-outline: #fe5000;}
- // NPS 
+ 
 .page3{
  --palette-core-outline: #fe5000;
  --palette-action-hover: no color; // boarder on hover for set of values should always be transparent 
