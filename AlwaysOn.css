@@ -1,4 +1,4 @@
-.root{
+:root{
 	--palette-core-primary: #fe5000; // on hover boarders colors
  	--palette-action-hover: no color; // boarder on hover for set of values should always be transparent 
 	--questions-spacing: 15px;
