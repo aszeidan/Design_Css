@@ -7,9 +7,8 @@
 
 
 .Q1P1 {	
-    --palette-rating-custom-hover: #2D64F0;
-    --palette-rating-custom-selected: #2D64F0;
-    --palette-rating-custom-outline: #2D64F0;
-    --palette-rating-custom-selected-outline: #2D64F0;
-	--palette-action-hover: transparent; 
+    --palette-rating-custom-hover: #2D64F0 !important;
+    --palette-rating-custom-selected: #2D64F0 !important;
+    --palette-rating-custom-outline: #2D64F0  !important;
+    --palette-rating-custom-selected-outline: #2D64F0  !important;
 }
