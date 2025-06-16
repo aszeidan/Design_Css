@@ -33,7 +33,7 @@
  
 }
 .q1p4{
---palette-core-outline: transparent;
+--palette-core-outline:  #fe5000;
 --palette-action-hover: transparent;
 --palette-rating-number-hover:#fe5000 ;
 --palette-rating-number-selected: #fe5000;
