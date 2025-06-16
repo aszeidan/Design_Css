@@ -1,12 +1,13 @@
 :root{
-	--palette-core-primary: #ff4f4d; // on hover boarders colors }
+	--palette-core-primary: #ff4f4d; // on hover boarders colors
+Geomanist }
 
 
-.Q1P1 {
-    --palette-rating-custom-hover: #ff4f4d;
-    --palette-rating-custom-selected: #ff4f4d;
-    --palette-rating-custom-outline: #ff4f4d;
-    --palette-rating-custom-selected-outline: #ff4f4d;}
+.Q1P1 {	
+    --palette-rating-custom-hover: #2D64F0;
+    --palette-rating-custom-selected: #2D64F0;
+    --palette-rating-custom-outline: #2D64F0;
+    --palette-rating-custom-selected-outline: #2D64F0;}
 
  // NPS 
  --palette-core-outline: #fe5000;
