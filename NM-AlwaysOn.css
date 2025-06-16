@@ -2,9 +2,7 @@
 	--palette-core-primary: #ff4f4d; // on hover boarders colors }
 
 
-.Q1P1> div > div {
-display: flex;
-justify-content: center;
+.Q1P1 {
     --palette-rating-custom-hover: #ff4f4d;
     --palette-rating-custom-selected: #ff4f4d;
     --palette-rating-custom-outline: #ff4f4d;
