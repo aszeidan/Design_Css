@@ -1,6 +1,7 @@
 :root{
 	--palette-core-primary: #ff4f4d; // on hover boarders colors
-	--typography-fontFamily: Geomanist; }
+	--typography-fontFamily: Geomanist; 
+--palette-core-outline: #ff4f4d;}
 
 
 .Q1P1 {	
