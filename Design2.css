@@ -1,1 +1,16 @@
+
+:root{
+	--palette-core-primary: #ff4f4d !important;
+	--typography-fontFamily: Geomanist !important;
 --palette-typography-headline: white;
+	--palette-core-outline: #ff4f4d !important;
+    --palette-action-hover: transparent !important;
+}
+
+
+.Q1P1 {	
+    --palette-rating-custom-hover: #2D64F0 !important;
+    --palette-rating-custom-selected: #2D64F0 !important;
+    --palette-rating-custom-outline: #2D64F0  !important;
+    --palette-rating-custom-selected-outline: #2D64F0  !important;
+}
