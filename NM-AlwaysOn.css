@@ -1,8 +1,7 @@
 :root{
 	--palette-core-primary: #2d65f0 !important;
 	--typography-fontFamily: Geomanist !important;
-	--palette-core-outline: #ff4f4a !important;
-    --palette-action-hover: transparent !important;
+
 }
 
 
@@ -13,3 +12,7 @@
     --palette-rating-custom-selected-outline: rgba(44, 53, 72, 0.56) !important;}
 
 
+   .Q2P2{ --palette-rating-number-hover: #ff4f4a;
+    --palette-rating-number-fill-hover: transparent;
+    --palette-rating-number-selected: #2d65f0;
+}
