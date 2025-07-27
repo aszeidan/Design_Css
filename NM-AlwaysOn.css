@@ -1,22 +1,22 @@
 :root{
-	--palette-core-primary: #2d65f0 !important;
+	--palette-core-primary: #2D64F0 !important;
 	--typography-fontFamily: Geomanist !important;
-	--palette-core-outline: #ff4f4a !important;
+	--palette-core-outline: #2D64F0 !important;
 	--palette-action-hover: transparent !important;
 
 }
 
 
 .Q1P1 {	
-   --palette-rating-custom-hover: #ff4f4a !important;
-    --palette-rating-custom-selected: #2d65f0 !important;
-    --palette-rating-custom-outline: rgba(44, 53, 72, 0.56) !important;
---palette-rating-custom-selected-outline: rgba(44, 53, 72, 0.56) !important;
+   --palette-rating-custom-hover: #ff4f4d !important;
+    --palette-rating-custom-selected: #2D64F0 !important;
+    --palette-rating-custom-outline: #2D64F0 !important;
+--palette-rating-custom-selected-outline: #2D64F0 !important;
     }
 
 
    .Q2P2{
---palette-rating-number-hover: #ff4f4a;
+--palette-rating-number-hover: #ff4f4d;
     --palette-rating-number-fill-hover: transparent;
     --palette-rating-number-selected: #2d65f0;
 }
