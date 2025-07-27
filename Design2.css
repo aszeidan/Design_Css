@@ -2,7 +2,6 @@
 :root{
 	--palette-core-primary: #ff4f4d !important;
 	--typography-fontFamily: Geomanist !important;
---palette-typography-headline: white;
 	--palette-core-outline: #ff4f4d !important;
     --palette-action-hover: transparent !important;
 }
