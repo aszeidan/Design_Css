@@ -1,0 +1,7 @@
+:root{
+	--palette-core-primary: #2d65f0 !important;
+	--typography-fontFamily: Geomanist !important;
+	--palette-core-outline: #ff4f4a !important;
+	--palette-action-hover: transparent !important;
+
+}
